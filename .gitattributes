@@ -1,0 +1,2 @@
+# Força o GitHub a tratar arquivos .sql como SQL e os inclui nas estatísticas
+*.sql linguist-language=SQL linguist-detectable=true
