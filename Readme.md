@@ -498,8 +498,8 @@ Projeto desenvolvido como avaliação final da disciplina de Banco de Dados, com
 
 **Guibson Wendell**
 
-- [GitHub](https://github.com/SEU_USUARIO)
-- [LinkedIn](https://www.linkedin.com/in/guibsonwendell-dev/)
+- [GitHub](https://github.com/Guibsonwendell)
+- [LinkedIn](www.linkedin.com/in/guibsonwendell-dev)
 
 ---
 
